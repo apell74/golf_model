@@ -2,6 +2,7 @@
 /data/
 /mnt/data/
 *.csv
+/Golf/
 
 # Junk Files
 DS_Store
