@@ -9,3 +9,4 @@ DS_Store
 
 # Keys
 config.py
+__pycache__/
