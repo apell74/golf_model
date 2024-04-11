@@ -1,6 +1,7 @@
 # Data
 /data/
 /mnt/data/
+*.csv
 
 # Junk Files
 DS_Store
