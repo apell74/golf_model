@@ -1,5 +1,6 @@
 # Data
 /data/
+/mnt/data/
 
 # Junk Files
 DS_Store
